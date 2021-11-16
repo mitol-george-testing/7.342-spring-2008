@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Health and Medicine",
+      "Cellular and Molecular Medicine"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "954d6810-eb6c-cacc-9130-ec8a15cb45a3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Developmental and Molecular Biology of Regeneration",
+  "course_description": "How does a regenerating animal \"know\" what's missing? How are stem cells or differentiated cells used to create new tissues during regeneration? In this class we will take a comparative approach to explore this fascinating problem by critically examining classic and modern scientific literature about the developmental and molecular biology of regeneration. We will learn about conserved developmental pathways that are necessary for regeneration, and we will discuss the relevance of these findings for regenerative medicine.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
